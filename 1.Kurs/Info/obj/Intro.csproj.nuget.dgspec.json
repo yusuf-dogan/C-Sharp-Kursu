@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp- Kursu\\1.Hafta\\Info\\Intro.csproj": {}
+    "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp- Kursu\\1.Kurs\\Info\\Intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp- Kursu\\1.Hafta\\Info\\Intro.csproj": {
+    "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp- Kursu\\1.Kurs\\Info\\Intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp- Kursu\\1.Hafta\\Info\\Intro.csproj",
+        "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp- Kursu\\1.Kurs\\Info\\Intro.csproj",
         "projectName": "Intro",
-        "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp- Kursu\\1.Hafta\\Info\\Intro.csproj",
+        "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp- Kursu\\1.Kurs\\Info\\Intro.csproj",
         "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp- Kursu\\1.Hafta\\Info\\obj\\",
+        "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp- Kursu\\1.Kurs\\Info\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
