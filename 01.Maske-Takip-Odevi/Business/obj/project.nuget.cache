@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ltdb6XfeMST+Lf2Xru9i4pYLfMzeoHsosbk2KE5D4+hi+VlZIgZjkrwxLqmHNYl5DjwhtHqXGebhnz8hSjTmTA==",
+  "dgSpecHash": "9H/Vhncpm8mpecbsWCgPre9OnIdppV/y3kJHGpWXlc09JNs7b/AvHO57ecGizQ2cVlA8F2eqJuyOs4UIKhKmGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\Maske-Takip-Odevi\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\01.Maske-Takip-Odevi\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yusuf\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

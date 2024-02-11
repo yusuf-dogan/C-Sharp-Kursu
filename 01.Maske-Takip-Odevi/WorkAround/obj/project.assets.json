@@ -3060,11 +3060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\Maske-Takip-Odevi\\WorkAround\\WorkAround.csproj",
+      "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\01.Maske-Takip-Odevi\\WorkAround\\WorkAround.csproj",
       "projectName": "WorkAround",
-      "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\Maske-Takip-Odevi\\WorkAround\\WorkAround.csproj",
+      "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\01.Maske-Takip-Odevi\\WorkAround\\WorkAround.csproj",
       "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\Maske-Takip-Odevi\\WorkAround\\obj\\",
+      "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\01.Maske-Takip-Odevi\\WorkAround\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3086,11 +3086,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\Maske-Takip-Odevi\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\Maske-Takip-Odevi\\Business\\Business.csproj"
+            "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\01.Maske-Takip-Odevi\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\01.Maske-Takip-Odevi\\Business\\Business.csproj"
             },
-            "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\Maske-Takip-Odevi\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\Maske-Takip-Odevi\\Entities\\Entities.csproj"
+            "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\01.Maske-Takip-Odevi\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\01.Maske-Takip-Odevi\\Entities\\Entities.csproj"
             }
           }
         }

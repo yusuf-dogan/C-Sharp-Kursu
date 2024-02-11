@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\Maske-Takip-Odevi\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\01.Maske-Takip-Odevi\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\Maske-Takip-Odevi\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\01.Maske-Takip-Odevi\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\Maske-Takip-Odevi\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\01.Maske-Takip-Odevi\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

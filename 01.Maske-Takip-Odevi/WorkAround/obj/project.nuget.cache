@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hb39f5J/AqKyLosCbS9jFbF8cuVdl7D3/XXMgYWZSCdHUFIq0Hl5eg+TSpA1vsBcirPOGcXNRyudChNHBg4U6Q==",
+  "dgSpecHash": "swW6xmXDTyZshGFV87/04WyjtjJOjSMmPvZuSe6T+fteGCyYBQiaEhCB/UYzWjm2xxA3MrpF8JhFYj2YJypz4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\Maske-Takip-Odevi\\WorkAround\\WorkAround.csproj",
+  "projectFilePath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\C-Sharp-Kursu\\01.Maske-Takip-Odevi\\WorkAround\\WorkAround.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yusuf\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,0 +1,14 @@
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\bin\Debug\net8.0\Info.exe
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\bin\Debug\net8.0\Info.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\bin\Debug\net8.0\Info.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\bin\Debug\net8.0\Info.dll
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\bin\Debug\net8.0\Info.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\obj\Debug\net8.0\Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\obj\Debug\net8.0\Info.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\obj\Debug\net8.0\Info.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\obj\Debug\net8.0\Info.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\obj\Debug\net8.0\Info.dll
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\obj\Debug\net8.0\refint\Info.dll
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\obj\Debug\net8.0\Info.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\obj\Debug\net8.0\Info.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\C# Kursu\Info\Info\obj\Debug\net8.0\ref\Info.dll
